@@ -1,10 +1,9 @@
 # TrabalhoMaisDeUmaTela.
 
-Aula1Calculadora
-Sobre o projeto
+
+Sobre o projeto:
 Aplicativo com mais de uma tela.
 
-Layout mobile:
 
 
 
